@@ -68,7 +68,7 @@
       Uji Kompetensi
     </el-menu-item>
     <el-menu-item index="/kegiatan">
-      Kegiatan
+      Kegiatan Malam
     </el-menu-item>
 
     <template v-if="!isLogged">
